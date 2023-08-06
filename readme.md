@@ -3,7 +3,6 @@
 
 #### Candidato: **Braian de Leon**, Fecha: **8/5/2023**
 
-### *Descripcion*
 El programa carga en cada inicializacion el archivo que contiene los datos de los empleados. 
 
 Luego, calcula en base a estos la probabilidad de permanencia y los guarda en un archivo .csv externo diferente del original con dos columnas (EmployeeNumber y TurnoverRate).
