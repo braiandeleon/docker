@@ -9,7 +9,7 @@
 
 > http://127.0.0.1:5000/turnover?employeenumber=601
 
-**Importante**: Se incluye un archivo de pruebas en la carpeta tests. Basta con correrlo para determinar la funcionalidad del servidor una vez montado en la maquina local con el puerto 5000 expuesto sin redireccionamiento. El siguiente comando ejecuta las pruebas:
+**Importante**: En el repositorio [Docker](https://github.com/braiandeleon/docker) se encuentan los archivos solos. Fuera del contender de docker. En el contenedor se incluye un archivo de pruebas en la carpeta tests. Basta con correrlo para determinar la funcionalidad del servidor una vez montado en la maquina local con el puerto 5000 expuesto sin redireccionamiento. El siguiente comando ejecuta las pruebas:
 
 > docker exec -it *nombre_delcontenedor* python tests/test_app.py 
 
